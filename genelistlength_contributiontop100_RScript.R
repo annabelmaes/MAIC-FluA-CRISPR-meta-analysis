@@ -1,5 +1,5 @@
 library(readxl)
-x <- read_excel("March_answer_to_reviewers/top100bygenelistlength.xlsx", 
+x <- read_excel("top100bygenelistlength.xlsx", 
                                      sheet = "top100bylistlength")
 
 
